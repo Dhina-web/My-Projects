@@ -1,0 +1,109 @@
+
+
+body{
+	padding:10px;
+	margin:10px;
+}
+a:hover{
+	text-decoration: none;
+}
+#Header{
+	background-color: #013f7e;
+	color: #ffffff;
+	box-shadow: 0 0px 20px  rgba(0,0,0,0.2);
+	margin-top: 20px;
+}
+
+.navbar-brand img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	background-color: white;
+}
+.navbar-nav a{
+	padding-right: 25px;
+	margin: 10px;
+	font-size: 22px;
+}
+
+#Instruction{
+	margin-top: 50px;
+	padding:25px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+.Welcome h1{
+	position: absolute;
+	left:20px;
+	margin:20px;
+
+}
+#navbarNavAltMarkup{
+	font-weight: bold;
+	color: blue!important;
+}
+.navbar-nav li a{
+	float: right;
+	color: #000000 !important;
+	font-size: 22px
+	font-weight:10px;
+}
+#navbarNavAltMarkup a{
+	margin-left: 20px;
+	font-size: 22px;
+
+}
+.nav-head{
+	position: absolute;
+	float: left;
+	left:35%;
+}
+.nav-head{
+	font-style: oblique;
+	font-weight: bold;
+	font-size:50px;
+}
+#navbarNavAltMarkup a:hover{
+	margin-left: 20px;
+	font-size: 22px;
+	color: #013f7e;
+}
+.navbar-brand img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	background-color: white;
+}
+.navbar-toggler{
+	border:none !important;
+	outline: none!important;
+}
+.content h4{
+	position: absolute;
+	left:40px;
+	margin:20px;
+	padding: 25px;
+	text-align: left;
+	margin-top: 40px;
+	font-family: sans-serif;
+	font-size: 22px;
+}
+
+#Footer .fa{
+	padding-right: 20px;
+	font-size: 16px;
+}
+#Footer a{
+	font-size: 17px;
+	text-align:left;
+	text-decoration:none;
+}
+
+#Footer p{
+	font-size: 17px;
+	text-align:left;
+}
+#link{
+	margin-left:10px;
+}

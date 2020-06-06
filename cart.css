@@ -1,0 +1,162 @@
+body{
+	margin-right: 40px;
+	margin-left: 40px;
+	padding:0;
+}
+
+.navbar-brand img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	background-color: white;
+}
+
+#navbarNavAltMarkup{
+	font-weight: bold;
+	color: blue!important;
+}
+.navbar-nav li a{
+	float: right;
+	color: #000000 !important;
+	font-size: 22px
+	font-weight:10px;
+}
+#navbarNavAltMarkup a{
+	margin-left: 20px;
+	font-size: 22px;
+
+}
+.nav-head{
+	position: absolute;
+	float: left;
+	left:35%;
+}
+.nav-head{
+	font-style: oblique;
+	font-weight: bold;
+	font-size:50px;
+}
+#navbarNavAltMarkup a:hover{
+	margin-left: 20px;
+	font-size: 22px;
+	color: #013f7e;
+}
+.navbar-brand img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	background-color: white;
+}
+.navbar-toggler{
+	border:none !important;
+	outline: none!important;
+}
+.fa-bars{
+	color: #000000;
+	font-size: 80px;
+	font-weight: 20px;
+}
+
+#Header{
+	position: absolute;
+	float: left;
+	top:90%;
+	margin:20px;
+	left:-3%;
+	padding-right: 25px;
+}
+
+#cartheader{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#cartheader .col-md-6 h1{
+	margin-left: 80px;
+}
+
+#cartheader .col-md-6 h3{
+	margin-left:550px;
+	margin-top: 20px;
+	background-color: white;
+}
+.fa-shopping-cart{
+	position:absolute;
+	float: left;
+	right: -20%;
+	color: black;
+}
+.nowrap {
+  white-space: nowrap ;
+  background-color: white;
+}
+.table{
+	position: absolute;
+	left:10%;
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 22px;
+	margin-top: 40px;
+
+}
+
+.row{
+	padding-top: 25px;
+}
+.subt h4{
+	margin-left: 70px;
+}
+
+.table .btn{
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin-top: -5px;
+	background-color: #f71735;
+background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);
+
+}
+.table .btn a{
+padding-top: -5px;
+}
+
+.quant{
+	box-sizing: border-box;
+	border-radius: 7px;
+	border-color:#03e5b7; 
+	background-color: #03e5b7 linear-gradient(315deg, #03e5b7 0%, #037ade 74%);
+	border-width: 3px;
+}
+
+#proceed{
+	position: absolute;
+	right: -20%;
+	top:240%;
+	margin-bottom: 25px;
+	background-color: #36096d;
+background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);
+}
+
+#proceed a:hover{
+	background-color: #2a2a72;
+background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+}
+
+#continue{
+	box-sizing: border-box;
+	border-radius: 20px;
+	background-color: transparent;
+}
+
+#continue a{
+	font-size: 22px;
+	text-decoration: none;
+
+}
+#continue a:hover{
+	font-size: 22px;
+	text-decoration: none;
+	color: #013f7e;
+
+}
+
